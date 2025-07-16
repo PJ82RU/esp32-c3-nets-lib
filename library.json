@@ -1,0 +1,28 @@
+{
+  "name": "ESP32-C3 Nets Library",
+  "version": "1.0.0",
+  "keywords": "esp32, esp32-c3, ble, uart, usb-jtag, embedded",
+  "description": "ESP32-C3 Network Interfaces Library (BLE/UART/USB-JTAG) with packet-based communication",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PJ82RU/esp32-c3-nets-lib"
+  },
+  "authors": [
+    {
+      "name": "PJ82. Spiridonov Vladislav",
+      "email": "project82@mail.ru",
+      "maintainer": true
+    }
+  ],
+  "license": "Unlicense",
+  "frameworks": [
+    "espidf",
+    "arduino"
+  ],
+  "platforms": "espressif32",
+  "headers": [
+  ],
+  "dependencies": {
+    "PJ82RU/esp32-c3-utils": ">=1.0.0"
+  }
+}
