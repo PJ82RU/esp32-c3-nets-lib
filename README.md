@@ -68,4 +68,4 @@ if (ble->quickStart([](net::Packet packet) {
 
 ## Лицензия
 
-Данная библиотека распространяется под [лицензией Unlicense](https://unlicense.org/).
+Данная библиотека распространяется под [лицензией Unlicense](https://github.com/PJ82RU/esp32-c3-nets-lib/blob/main/README.md).
